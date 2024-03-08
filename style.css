@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    
+    
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#main{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-spacing: 10px;
+    background-color: grey;
+    
+}
+
+td{
+    text-align: center;
+    padding: 30px;
+ 
+}
+
+#a{
+    background-color: rgb(211, 138, 3);
+    color: aliceblue;
+    font-size: 50px;
+    
+}
+
+#b{
+    background-color: red;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#c{
+    background-color: purple;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#d{
+    background-color: green;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#ee{
+    background-color: black;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#f{
+    background-color: rgb(255, 179, 191);
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#g{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#h{
+    background-color: yellow;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#i{
+    background-color: rgb(167, 167, 167);
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#secundario{
+    vertical-align: top;
+    font-size: 25px;
+}
+h2{
+    color: red;
+}
+
+#radio:hover{
+    cursor: pointer;
+
+}
+
+#botao{
+    width: 80%;
+    height: 30px;
+    background-color: rgb(108, 180, 247);
+    border-radius: 5px;
+    font: 1em sans-serif;
+    font-size: 20px;
+}
+#botao:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+    
+}
+
